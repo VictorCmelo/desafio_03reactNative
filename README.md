@@ -1,7 +1,7 @@
 
 #  :heavy_check_mark: Desafio 03 - React Native 
 
-Neste desafio completa e fecha a primeira semana do Bootcamp - com a ciração de uma aplicação mobile super simples, porém que aplica vários conceitos fundamentais do React Native.
+Neste desafio completa e fecha a primeira semana do Bootcamp - com a criação de uma aplicação mobile super simples, porém que aplica vários conceitos fundamentais do React Native.
 
 ## O que é o ReactJS
 
